@@ -1,0 +1,16 @@
+python-dotenv
+jupyterlab
+ipywidgets
+numpy
+pandas
+scikit-learn
+plotnine
+torch
+openai
+google-genai
+gradio
+langchain
+langchain-google-genai
+kaggle
+langchain_experimental
+tabulate
