@@ -1,0 +1,15 @@
+Code:
+def calculate_series(num_terms):
+    total = 0.0
+    sign = 1.0
+    for i in range(num_terms):
+        denominator = 2 * i + 1
+        total += sign / denominator
+        sign *= -1.0
+    return total * 4
+
+result = calculate_series(10000)
+print(result)
+
+Output:
+3.1414926535900345
