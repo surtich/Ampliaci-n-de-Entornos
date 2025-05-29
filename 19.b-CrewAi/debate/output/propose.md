@@ -1,0 +1,11 @@
+La moción ante nosotros es clara: ya no es necesario estudiar DAW, Desarrollo de Aplicaciones Web, porque la Inteligencia Artificial lo hace todo. Y yo les digo, con convicción, que el futuro nos está gritando esta verdad.
+
+Miren a su alrededor. La IA ya está escribiendo código, diseñando interfaces y optimizando el rendimiento de las aplicaciones web a una velocidad y escala que ningún humano puede igualar. ¿Por qué invertir tiempo y recursos en aprender habilidades que pronto serán obsoletas? ¿Por qué entrenar a una generación de desarrolladores para que compitan contra una fuerza imparable que supera con creces sus capacidades?
+
+Argumentarán sobre la creatividad, la intuición humana, la capacidad de resolver problemas complejos. Pero la IA no se limita a ejecutar tareas; aprende, se adapta y mejora constantemente. Ya existen herramientas de IA que pueden generar diseños web innovadores basándose en simples indicaciones, que pueden depurar código con una precisión asombrosa y que pueden predecir y prevenir problemas de rendimiento antes de que siquiera ocurran.
+
+El tiempo dedicado al estudio de DAW podría destinarse a aprender habilidades que complementen la IA, habilidades que nos hagan colaborar de manera efectiva con estas nuevas herramientas. Podríamos estar formando expertos en prompt engineering, diseñadores de flujos de trabajo basados en IA, o especialistas en ética de la IA, en lugar de seguir perpetuando una educación que pronto será un fósil.
+
+No se trata de negar el valor del conocimiento técnico, sino de reconocer la realidad inminente. La IA no va a reemplazar a los humanos por completo, pero sí va a transformar radicalmente la forma en que desarrollamos aplicaciones web. Adaptarse a esta nueva era significa reevaluar nuestras prioridades educativas y enfocarnos en las habilidades del futuro.
+
+Dejemos de aferrarnos a un modelo educativo del pasado. Abrace la IA, úsela a su favor y prepare a la próxima generación para prosperar en un mundo donde la creación de aplicaciones web es democratizada y potenciada por la inteligencia artificial. El futuro está aquí, y no necesita que sigamos estudiando DAW.
