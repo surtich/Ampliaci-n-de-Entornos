@@ -1,5 +1,0 @@
-.venv
-**/__pycache__
-.ipynb_checkpoints
-datasets/mnist_train.csv
-datasets/mnist_test.csv

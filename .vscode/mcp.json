@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "binance_mcp": {
+      "type": "stdio",
+      "command": "/home/surtich/projects/Ampliaci-n-de-Entornos/.venv/bin/python",
+      "args": ["/home/surtich/projects/Ampliaci-n-de-Entornos/21.MCP/21.b-binance_mcp_w_resources.py"]
+    }
+  }
+}
